@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Kun Zhou is a postdoctoral researcher at UC San Diego, working with [Zhiting Hu](http://zhiting.ucsd.edu/) and [Biwei Huang](https://biweihuang.com/). His research interests are **Representation Learning for Foundation Models**, with focuses on Multimodal Foundation Models and Unified Representation Learning, and their applications in complex planning and reasoning tasks. He obtained Ph.D at Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN), and master degree from Peking University. His work has received [14000+ citation](https://scholar.google.com/citations?hl=en&user=bmRJVjwAAAAJ) so far.
+Kun Zhou is a postdoctoral researcher at UC San Diego, working with [Zhiting Hu](http://zhiting.ucsd.edu/) and [Biwei Huang](https://biweihuang.com/). His research interests are **Representation Learning for Foundation Models**, with focuses on World Models and Unified Representation Learning. He obtained Ph.D at Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN), and master degree from Peking University. His work has received [14000+ citation](https://scholar.google.com/citations?hl=en&user=bmRJVjwAAAAJ) so far.
 
-#### <font color="red"> Research Opportunities: </font> I am consistently seeking highly motivated students, to work with me in various research projects. If you are interested in my current research topics about improving the advanced capabilities of LLMs and World Models (Complex Reasoning, Multimodal Understanding and Generation), feel free to email me.
+#### <font color="red"> Seeking for Job: </font> I’m currently looking for a full-time job in industry.
 
 News
 ======
