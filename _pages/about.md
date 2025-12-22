@@ -10,8 +10,6 @@ redirect_from:
 
 Kun Zhou is a postdoctoral researcher at UC San Diego, working with [Zhiting Hu](http://zhiting.ucsd.edu/) and [Biwei Huang](https://biweihuang.com/). His research interests are **Representation Learning for Foundation Models**, with focuses on World Models and Unified Representation Learning. He obtained Ph.D at Renmin University of China, under the supervision of [Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=zh-CN) and [Ji-Rong Wen](https://scholar.google.com/citations?user=tbxCHJgAAAAJ&hl=zh-CN), and master degree from Peking University. His work has received [14000+ citation](https://scholar.google.com/citations?hl=en&user=bmRJVjwAAAAJ) so far.
 
-### <font color="red"> Seeking for Job: I’m currently looking for opportunities in industry. </font> 
-
 News
 ======
 We release [PAN](https://ifm.mbzuai.ac.ae/pan/), A World Model for General, Interactable, and Long-Horizon World Simulation!
