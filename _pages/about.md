@@ -29,9 +29,9 @@ Currently, my primary research lies in building Large-scale Multimodal Foundatio
 * **Memory with Unified Representation to Read Anything**
   * ***General Memory for VLM:*** [CoMEM - NeurIPS 2025](https://arxiv.org/pdf/2505.17670)
   * ***Scalable Memory for Agent:*** [CoMEM-Agent](https://arxiv.org/pdf/2510.09038?)
-  * ***General Memory for World Model:*** [Coming soon!]
-* **Stronger Reasoning and Planning Capability to Generate Anything?**
-  * ***Scaling with Synthetic Data:*** [JiuZhang3.0 - NeurIPS 2024](https://arxiv.org/pdf/2405.14365)
+  * ***General Memory for World Model:*** [DiT-Mem](https://arxiv.org/pdf/2511.19229)
+* **Stronger Reasoning and Planning Ability to Generate Anything**
+  * ***Scaling Synthetic Data for SFT:*** [JiuZhang3.0 - NeurIPS 2024](https://arxiv.org/pdf/2405.14365)
   * ***Scaling Data for RL:*** [Vision-G1 - AAAI 2026](https://arxiv.org/pdf/2508.12680?)
   * ***Tool-Augmented Agent:*** [StructGPT - EMNLP 2023](https://arxiv.org/pdf/2305.09645), [DELI - NeurIPS 2023](https://arxiv.org/pdf/2306.02408), [KG-Agent - ACL 2025](https://arxiv.org/pdf/2402.11163)
 
